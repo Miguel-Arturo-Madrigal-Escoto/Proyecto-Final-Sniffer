@@ -1,0 +1,1 @@
+En CMD o línea de comandos: pip install scapy
